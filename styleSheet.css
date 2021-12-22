@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.tool-list {
+    background: crimson;
+    display: flex;
+}
+
+
+.tool {
+    width: 75px;
+    height: 100px;
+    text-align: center;
+}
